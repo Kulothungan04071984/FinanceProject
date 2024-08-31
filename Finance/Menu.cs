@@ -68,7 +68,7 @@ namespace Finance
 
         private void cUSTOMERMASTERToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("CUSTOMER TRANSACTION");
+            MessageBox.Show("CUSTOMER TRANSACTION PAGE");
         }
 
         private void Menu_KeyDown(object sender, KeyEventArgs e)
